@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script> 
+		console.log('hello, world!');
+		 var birthyear=parseInt(prompt('what year wre you born in?'));
+	
+		 var luckynumber=parseInt(prompt('what is your lucky number?'));
+
+		 var favfood='chocolate'
+		 var favsubject=' english'
+
+		 alert(birthyear/luckynumber);
+		 alert(birthyear + luckynumber);
+		 alert(birthyear + favsubject);
+		 alert(favFruit + birthYear + luckyNumber);
+		 alert(birthYear + luckyNumber + favSubject);
+
+	</script>
+
+</head>
+
+<body>
+
+</body>
+</html>
