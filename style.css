@@ -1,3 +1,15 @@
 h1{
-	color: lightpink;
+	color: pink;
+	text-align:center;
+}
+body {
+  background-image: url('castle.img');
+  background-size:cover;
+}
+h2{
+	color:white;
+	text-align:center;
+}
+#question1{
+	text-align:center;
 }
